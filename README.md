@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./BG-catCl2.jpg"  width="100%" height="180"/>
 </p>
-<hr>
 <h1 align="center">Hi, I'm Opor</h1>
 <h3 align="center">Kornkanok Samrit</h3>
 <!--
