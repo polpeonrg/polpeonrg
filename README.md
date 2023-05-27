@@ -6,7 +6,8 @@
 
 ### ⚪️&nbsp;About Me
 - 📫 How to reach me **opor.samrit@gmail.com**
-- 💻  About my experiences [My Resume](https://polpeonrg.github.io/polpeonrg-resume/)
+- 💻 About my experiences [My Resume](https://polpeonrg.github.io/polpeonrg-resume/)
+
 <!--
 **polpeonrg/polpeonrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
