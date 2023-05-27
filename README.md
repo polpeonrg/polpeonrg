@@ -1,8 +1,12 @@
 <p align="center">
   <img src="./BG-catCl2.jpg"  width="100%" height="100%"/>
 </p>
-<h1 align="center">Hi, I'm Opor</h1>
-<h3 align="center">Kornkanok Samrit</h3>
+<h1 align="center">Hi, I'm Kornkanok Samrit</h1>
+<h3 align="center">Backend Developer • Senior Student </h3>
+
+### ⚪️&nbsp;About Me
+- 📫 How to reach me **opor.samrit@gmail.com**
+- 💻  About my experiences [My Resume](https://polpeonrg.github.io/polpeonrg-resume/)
 <!--
 **polpeonrg/polpeonrg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
