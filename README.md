@@ -2,7 +2,7 @@
   <img src="./BG-catCl2.jpg"  width="100%" height="100%"/>
 </p>
 <h1 align="center">Hi, I'm Kornkanok Samrit</h1>
-<h3 align="center">Backend Developer • Senior Student </h3>
+<h3 align="center">Developer</h3>
 
 ### ⚪️&nbsp;About Me
 - 📫 How to reach me **opor.samrit@gmail.com**
