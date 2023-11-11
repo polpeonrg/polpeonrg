@@ -5,7 +5,7 @@
 <h3 align="center">Developer</h3>
 
 ### ⚪️&nbsp;About Me
-- 📫 How to reach me **opor.samrit@gmail.com**
+- 📫 How to reach me **o+por.s+amr+it@gmail.com** (Please remove '+')
 - 💻 About my experiences [My Resume](https://polpeonrg.github.io/polpeonrg-resume/)
 
 <!--
